@@ -21,3 +21,31 @@
 •	모델링: 기후 데이터를 기반으로 생물계절 변화를 예측한다.
 
 생물계절은 자연계의 시간적 리듬을 이해하는 데 중요한 도구로, 인간 활동과 환경 변화의 영향을 평가하는 데 핵심적인 역할을 한다.
+
+Phenology studies periodic biological phenomena in living organisms, particularly plants and animals, relating to seasonal changes. 
+In plants, phenology explores the timing of key physiological events such as growth, development, and reproduction in response to environmental cues.
+
+Key Phenological Events in Plant
+
+Major phenological events observed in plants include:
+1.	Germination: The process of seeds sprouting and producing seedlings, primarily influenced by temperature and moisture conditions.
+2.	Leafing: The emergence of new leaves, typically occurring in spring as temperatures rise and daylight increases.
+3.	Flowering: The blooming depends on factors such as temperature, light exposure, and humidity.
+4.	Fruiting: The development and maturation of fruits following successful pollination and fertilization.
+5.	Leaf Fall: The changing color and shedding of leaves in autumn, triggered by shorter daylight hours and cooler temperatures.
+6.	Dormancy: During winter, plants cease growth and conserve energy.
+   
+Importance of Phenological Research
+1.	Monitoring Climate Change: Phenological events are directly influenced by climate. For example, earlier spring flowering is often cited as evidence of global warming.
+2.	Ecosystem Interactions: Changes in phenology can disrupt interactions between species, such as the timing mismatch between flowering plants and their pollinators.
+3.	Agriculture and Forestry: Provides critical information for crop planting, harvesting, and forest management.
+4.	Conservation Biology: Supports the management of habitats and ecological needs for endangered species.
+   
+Research Methods
+•	Field Observations: Long-term records of phenological changes through direct observation.
+•	Satellite and Remote Sensing: Large-scale analysis of phenological patterns over wide geographical areas.
+•	Modeling: Predicting phenological changes based on climate data and trends.
+
+Phenology serves as an essential tool for understanding the temporal rhythms of nature and assessing the impact of human activities and environmental changes.
+
+
