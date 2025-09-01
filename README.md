@@ -1,6 +1,6 @@
 ### Growing Degree Day
 
-작물의 기준온도
+🎑 작물의 기준온도
 
 ***
 
